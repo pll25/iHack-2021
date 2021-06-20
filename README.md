@@ -36,7 +36,7 @@ This gave me an indication that our ''file'' would be somewhere around these.
 
 ![packet-length](https://user-images.githubusercontent.com/16509773/122678081-35638d80-d1b3-11eb-83b9-d2403ddfc9f0.jpg)
 
-Let's say what we can find in the first big Packet. The packet #50.
+Let's see what we can find in the first big Packet. The packet #50.
 (Double click it to see raw packets).
 
 As we know that we need to find a ''file'' only the Data part of the packet would be interesting to us. The data is Raw, but we can change it to HexDump.
