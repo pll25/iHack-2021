@@ -58,6 +58,23 @@ Usually, I often get problems when I try to extract it as raw with wireshark (I 
 
 In CTF I really like to work with HexDump, as it is easier to see what type of file it could be, if there are missing parts or other stuff.
 Let's see how it goes :
+![magic-bytes](https://user-images.githubusercontent.com/16509773/122678418-cb4be800-d1b4-11eb-9218-b207ef0f1368.jpg)
+> See that we have the exact matching magic bytes of a 7zip archive.
+
+When I see this, I take the whole package and go to cyberchef.
+CyberChef lets me see if the file is corrupted in anyway, we can search the data and we can search around for hidden stuff.
+> https://gchq.github.io/CyberChef/
+
+Let's hit CTRL+A and CTRL+C To select the whole HexDump and paste it to CyberChef.
+When we paste in CyberChef **it already magically tells us that we have an HexDump**.
+If we hit the magic wand it will apply the ''From HexDump'' recipe.
+
+When we do this **it magically finds a 7zip archive file**
+We can take the output and it the save button, let's save it as a .7z as we know it's a 7z file.
+
+
+
+
 
 
 
