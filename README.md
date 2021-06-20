@@ -93,7 +93,7 @@ Looking at packet #37, we have the start of a PKIZP archive, with the word flag.
 Let's do the same thing as before all over again. Unfortunately we can't follow the IPv4 packets as they are not resolved.
 Let's see what we can get with the UDP ones, we now know that we have an archive containing flag.txt.
 
-> Right CLick any UDP packet --> Follow UDP Stream
+> Right Click any UDP packet --> Follow UDP Stream
 
 Bingo!
 The RAW Data starts with PK (magic Bytes for an archive and are followed flag.txt) which means that the archive might contain a file named flag.txt.
@@ -103,7 +103,7 @@ Paste it in Cyberchef:
 The magic Wand already tells us that a PKZIP file archive is detected.
 ![magicwand](https://user-images.githubusercontent.com/16509773/122679364-8924a580-d1b8-11eb-98ef-b867569e3ec6.jpg)
 
-Let's extract it (take the output and press ''Save Output to File'' as .zip archive.
+Let's extract it (take the output and press ''Save Output to File'' as .zip archive).
 
 Dang!
 **When we try to open it with Windows archive manager it says the file is incorrect.**
