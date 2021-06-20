@@ -72,6 +72,10 @@ If we hit the magic wand it will apply the ''From HexDump'' recipe.
 When we do this **it magically finds a 7zip archive file**
 We can take the output and it the save button, let's save hit as a .7z as we know it's a 7z file.
 
+When we open it, we find a new PCAP and the file where.txt that contains our **First Flag**!!
+![where](https://user-images.githubusercontent.com/16509773/122678697-e2d7a080-d1b5-11eb-944d-a390fbedd201.jpg)
+
+
 
 
 
