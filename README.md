@@ -27,7 +27,7 @@ I already doubted the files would be in the TCP part where there is no retransmi
 
 ### How to find it ?
 
-I spoke about patterns before. One pattern I really like to look at in wireshark is the size of the packts.
+I spoke about patterns before. One pattern I really like to look at in wireshark is the size of the packets.
 It gives a lot of information about ''anomalies'' in the packets which is usually good in CTFs. Also, it could be good in real life for multiple things (let's say DNS exfiltration, the packets would be bigger).
 
 Looking at the packet lengths we can find that : 
