@@ -134,7 +134,7 @@ In this particular case here's what I had :
 
 ### Would it be the time to take a walk ?
 I think yes! Let's ask binwalk to find if it can help uncover anything hidden.
-
+.![binwalkies](https://user-images.githubusercontent.com/16509773/122679857-8460f100-d1ba-11eb-9f1a-30ec2a44e4eejpg)
 
 
 
