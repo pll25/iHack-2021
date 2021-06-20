@@ -88,7 +88,7 @@ The second part of the challenge (PCAP Exploration part II) is as follow:
 We can now see that the packets are not recognized as TCP from wireshark. They are either UDP or IPv4.
 I still see some SSH and retransmissions which are not interesting today as we had also in part 1.
 
-The patterns are harder to find in thise one. However, we have some big packets either UDP or Ipv4 that looks promising.
+The patterns are harder to find in this one. However, we have some big packets either UDP or Ipv4 that looks promising.
 
 At this point I assumed that we would search for a file... as per the description.
 
