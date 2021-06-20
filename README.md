@@ -62,7 +62,7 @@ Let's see how it goes :
 > See that we have the exact matching magic bytes of a 7zip archive.
 
 When I see this, I take the whole package and go to cyberchef.
-CyberChef lets me see if the file is corrupted in anyway, we can search the data and we can search around for hidden stuff.
+CyberChef let me see if the file is corrupted in anyway, we can search the data and we can search around for hidden stuff.
 > https://gchq.github.io/CyberChef/
 
 Let's hit CTRL+A and CTRL+C To select the whole HexDump and paste it to CyberChef.
