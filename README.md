@@ -80,7 +80,7 @@ When we open it, we find a new PCAP and the file where.txt that contains our **F
 Part 1 of the challenge is owned. Now let's go to Flag2. Which is... basically the same thing for the wireshark part.
 Let's extract and open the ''pcap.pcap'' file that we have.
 
-Then second part of the challenge is (PCAP Exploration part II): 
+The second part of the challenge (PCAP Exploration part II) is as follow: 
 > Another file is hidden in this pcap, can you recover it?
 > This challenge begins from the file you found in part I.
 
