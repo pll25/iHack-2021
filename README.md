@@ -51,6 +51,8 @@ Right click packet #50 and hit ''Follow'' -> ''TCP Stream''.
 A window will popup, and you will notice that in the background wireshark window you will have at new filter applied. It should look like :
 > tcp.stream eq 11
 
+![packet-bytes](https://user-images.githubusercontent.com/16509773/122678317-4cef4600-d1b4-11eb-8ba2-b8e25ca977b7.jpg)
+
 
 
 
