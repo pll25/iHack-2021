@@ -35,3 +35,25 @@ Looking at the packet lengths we can find that :
 This gave me an indication that our ''file'' would be somewhere around these.
 
 ![packet-length](https://user-images.githubusercontent.com/16509773/122678081-35638d80-d1b3-11eb-83b9-d2403ddfc9f0.jpg)
+
+Let's say what we can find in the first big Packet. The packet #50.
+(Double click it to see raw packets).
+
+As we know that we need to find a ''file'' only the Data part of the packet would be interesting to us. The data is Raw, but we can change it to HexDump.
+At first, I see that the Data of the packet is starting with 7z. Well... it's a magic byte! Guess what the letters 7z, are the beginning headers of ... you guessed it a 7zip archive!!!
+We now have the beginning our file. Let's see how we can extract it.
+
+### Follow the conversation to find more.
+I wrote earlier that you could see the data in HexDump or other formats. 
+But in order to do this, you will need to follow the conversation to find the other parts of our file.
+
+Right click packet #50 and hit ''Follow'' -> ''TCP Stream''.
+A window will popup, and you will notice that in the background wireshark window you will have at new filter applied. It should look like :
+> tcp.stream eq 11
+
+
+
+
+
+
+
