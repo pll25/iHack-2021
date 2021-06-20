@@ -1,6 +1,13 @@
 # iHack-2021 -- Write-Up
 Write-up that I promised for the WireShark track for iHack 2021 CTF -- PCAP Exploration Part 1 & 2
 
+### Note: What is Wireshark
+I assume that if you are here, you already know
+what is Wireshark. Wireshark is a software used to analyse 
+communications on all kind of networks. 
+
+See : https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html
+
 ### What you'll need :
 -Wireshark
 -Binwalk
