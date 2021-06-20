@@ -70,7 +70,7 @@ When we paste in CyberChef **it already magically tells us that we have an HexDu
 If we hit the magic wand it will apply the ''From HexDump'' recipe.
 
 When we do this **it magically finds a 7zip archive file**
-We can take the output and it the save button, let's save it as a .7z as we know it's a 7z file.
+We can take the output and it the save button, let's save hit as a .7z as we know it's a 7z file.
 
 
 
