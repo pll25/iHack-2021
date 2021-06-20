@@ -54,7 +54,7 @@ A window will popup, and you will notice that in the background wireshark window
 ![packet-bytes](https://user-images.githubusercontent.com/16509773/122678317-4cef4600-d1b4-11eb-8ba2-b8e25ca977b7.jpg)
 
 If look closely our Data is shown as ASCII, but we can convert it the way we want (RAW, HexDump, YAML etc).
-Usually, I often get problems when I try to extract it as raw with wireshark (I think it leaves the packet headers and breaks the file).
+Usually, I often get problems when I try to extract it as raw with wireshark (I think it leaves the packet headers or to much spaces and breaks the file).
 
 In CTF I really like to work with HexDump, as it is easier to see what type of file it could be, if there are missing parts or other stuff.
 Let's see how it goes :
