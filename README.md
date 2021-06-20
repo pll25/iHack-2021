@@ -101,6 +101,25 @@ The RAW Data starts with PK (magic Bytes for an archive and are followed flag.tx
 Exporting it as HexDump as before... leave it some time, this file looooookkksss huuuuugeeeee.
 Paste it in Cyberchef: 
 The magic Wand already tells us that a PKZIP file archive is detected.
+![magicwand](https://user-images.githubusercontent.com/16509773/122679364-8924a580-d1b8-11eb-98ef-b867569e3ec6.jpg)
+
+Let's extract it (take the output and press ''Save Output to File'' as .zip archive.
+
+Dang!
+**When we try to open it with Windows archive manager it says the file is incorrect.**
+
+I know the flag is in it!!!!!! I've seen it flag.txt.......
+
+At this point I have messed around a bit with the file. While messing around I've found that : 
+> Windows can't open it. However 7zip does.
+
+Let's see what 7zip as in store for us : 
+
+
+
+
+
+
 
 
 
