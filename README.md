@@ -34,3 +34,4 @@ Looking at the packet lengths we can find that :
 > All TCP packets are 480 bytes or under, except some (starting at packet #50).
 This gave me an indication that our ''file'' would be somewhere around these.
 
+![packet-length](https://user-images.githubusercontent.com/16509773/122678081-35638d80-d1b3-11eb-83b9-d2403ddfc9f0.jpg)
