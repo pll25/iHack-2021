@@ -76,6 +76,31 @@ We can take the output and it the save button, let's save hit as a .7z as we kno
 When we open it, we find a new PCAP and the file where.txt that contains our **First Flag**!!
 ![where](https://user-images.githubusercontent.com/16509773/122678697-e2d7a080-d1b5-11eb-944d-a390fbedd201.jpg)
 
+### Flag 2 is harder
+Part 1 of the challenge is owned. Now let's go to Flag2. Which is... basically the same thing for the wireshark part.
+Let's extract and open the ''pcap.pcap'' file that we have.
+
+We can now see that the packets are not recognized as TCP from wireshark. They are either UDP or IPv4.
+I still see some SSH and retransmissions which are not interesting today as we had also in part 1.
+
+The patterns are harder to find in thise one. However, we have some big packets either UDP or Ipv4 that looks promising.
+
+At this point I assumed that we would search for a file... again, but this was an assumption.
+
+Looking at packet #37, we have the start of a PKIZP archive, with the word flag.txt. Well I guess I'm at the right place.
+> ··09··M"PK···   · ···R_····   z·  ·   flag.txt
+
+Let's do the same thing as before all over again. Unfortunately we can't follow the IPv4 packets as they are not resolved.
+Let's see what we can get with the UDP ones, we now know that we have an archive containing flag.txt.
+
+> Right CLick any UDP packet --> Follow UDP Stream
+
+Bingo!
+The RAW Data starts with PK (magic Bytes for an archive and are followed flag.txt) which means that the archive might contain a file named flag.txt.
+
+Exporting it as HexDump as before... leave it some time, this file looooookkksss huuuuugeeeee.
+Paste it in Cyberchef: 
+The magic Wand already tells us that a PKZIP file archive is detected.
 
 
 
