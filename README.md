@@ -90,7 +90,7 @@ I still see some SSH and retransmissions which are not interesting today as we h
 
 The patterns are harder to find in thise one. However, we have some big packets either UDP or Ipv4 that looks promising.
 
-At this point I assumed that we would search for a file... again, but this was an assumption.
+At this point I assumed that we would search for a file... as per the description.
 
 Looking at packet #37, we have the start of a PKIZP archive, with the word flag.txt. Well I guess I'm at the right place.
 > ··09··M"PK···   · ···R_····   z·  ·   flag.txt
