@@ -141,12 +141,13 @@ Of course I exctracted everything in it and there was wayyyyyy more than the fir
 One of the files in the main folder contained the 2nd flag the hackfest logo. (Logo.jpg).
 ![flag2-logo](https://user-images.githubusercontent.com/16509773/122679963-0bae6480-d1bb-11eb-935f-4d5ef2d55a1f.jpg)
 
-At the end, I've spent few hours looking at all the files and trying to find so hard to find this flag that I've missed the obvious logo right in the first folder and spent like 2 hours on it without finding it.
+At the end, I've spent few hours looking at all the files and trying so hard to find this flag that I've missed the obvious logo right in the first folder and spent like 2 hours on it without finding it.
 
 It was still a great challenge & A great day! 
-Thank you all the organizers and see you at HackFest, or maybe before :)
+Thank you all the organizers and I hope we see you at HackFest, or maybe before :)
 
 Best regards!
+
 --pll25
 
 
