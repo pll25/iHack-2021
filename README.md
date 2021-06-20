@@ -80,6 +80,11 @@ When we open it, we find a new PCAP and the file where.txt that contains our **F
 Part 1 of the challenge is owned. Now let's go to Flag2. Which is... basically the same thing for the wireshark part.
 Let's extract and open the ''pcap.pcap'' file that we have.
 
+Then second part of the challenge is (PCAP Exploration part II): 
+> Another file is hidden in this pcap, can you recover it?
+> This challenge begins from the file you found in part I.
+
+
 We can now see that the packets are not recognized as TCP from wireshark. They are either UDP or IPv4.
 I still see some SSH and retransmissions which are not interesting today as we had also in part 1.
 
