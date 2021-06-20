@@ -148,7 +148,8 @@ One of the files in the main folder contained the 2nd flag the hackfest logo. (L
 
 At the end, I've spent few hours looking at all the files and subfolders.
 Trying so hard to get a flag that I've missed the obvious logo right in the first folder and spent like 2 hours on other files without seeing it.
-I guess this is what happens when your nose is too close to three, you don't see the whole forest... But I really really needed this flag lol ! =)
+
+I guess this is what happens when your nose is too close to tree, you don't see the whole forest... But I really really needed this flag lol ! =)
 
 It was still a great challenge & A great day! 
 Thank you all the organizers and I hope we see you at HackFest, or maybe before :)
