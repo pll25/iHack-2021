@@ -136,7 +136,9 @@ In this particular case here's what I had :
 I think yes! Let's ask binwalk to find if it can help uncover anything hidden.
 ![binwalkies](https://user-images.githubusercontent.com/16509773/122679891-af4b4500-d1ba-11eb-8aeb-d1718a62aa24.jpg)
 
+Of course I exctracted everything in it and there was wayyyyyy more than the first archive we had.
 
+One of the files in the main folder contained the 2nd flag the hackfest logo. (Logo.jpg).
 
 
 
