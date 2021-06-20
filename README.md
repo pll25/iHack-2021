@@ -120,6 +120,17 @@ As soon as I've seen this I was super happy, and hit FLAG.TXT to find it !
 Here was my deception :
 ![7zip1](https://user-images.githubusercontent.com/16509773/122679530-3dbec700-d1b9-11eb-9206-9c9898f1c946.jpg)
 
+At this point I have messed around (like more than an hour) trying to find out if there was anything hidden in the png image.
+It didn't have anything in store for me.
+
+I also found out that the file was big for a simple archive with 2 files. 
+I decided to send it back to CyberChef and see what was going on... 
+
+Upon doing this I've seen that there was multiple other files in the archive.
+(One good trick to find this in a CTF is that in an archive file you can see the list of files it contains at the end).
+
+In this particular case here's what I had :
+
 
 
 
