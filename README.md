@@ -123,7 +123,7 @@ When we open it we see flag.txt, and logo-ihack-2020.png.
 As soon as I've seen this I was super happy, and hit FLAG.TXT to find it !
 
 Here was my deception :
-
+![7zip1](https://user-images.githubusercontent.com/16509773/122682643-bb3e0380-d1c8-11eb-86a2-c385d3fb0c1e.jpg)
 
 At this point I have messed around (like more than an hour) trying to find out if there was anything hidden in the png image.
 It didn't have anything in store for me.
