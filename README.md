@@ -114,6 +114,10 @@ At this point I have messed around a bit with the file. While messing around I'v
 > Windows can't open it. However 7zip does.
 
 Let's see what 7zip as in store for us : 
+When we open it we see flag.txt, and logo-ihack-2020.png.
+As soon as I've seen this I was super happy, and hit FLAG.TXT to find it !
+
+Here was my deception :
 
 
 
