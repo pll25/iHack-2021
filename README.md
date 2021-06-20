@@ -69,7 +69,8 @@ Let's hit CTRL+A and CTRL+C To select the whole HexDump and paste it to CyberChe
 When we paste in CyberChef **it already magically tells us that we have an HexDump**.
 If we hit the magic wand it will apply the ''From HexDump'' recipe.
 
-When we do this **it magically finds a 7zip archive file**
+When we do this **it magically finds a 7zip archive file**.
+
 We can take the output and it the save button, let's save hit as a .7z as we know it's a 7z file.
 
 When we open it, we find a new PCAP and the file where.txt that contains our **First Flag**!!
