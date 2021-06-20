@@ -118,8 +118,7 @@ When we open it we see flag.txt, and logo-ihack-2020.png.
 As soon as I've seen this I was super happy, and hit FLAG.TXT to find it !
 
 Here was my deception :
-
-
+![7zip1](https://user-images.githubusercontent.com/16509773/122679530-3dbec700-d1b9-11eb-9206-9c9898f1c946.jpg)
 
 
 
