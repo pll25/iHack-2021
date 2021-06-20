@@ -146,7 +146,7 @@ At the end, I've spent few hours looking at all the files and trying to find so 
 It was still a great challenge & A great day! 
 Thank you all the organizers and see you at HackFest, or maybe before :)
 
-
+Best regards!
 --pll25
 
 
