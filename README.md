@@ -132,7 +132,7 @@ Upon doing this I've seen that there was multiple other files in the archive.
 In this particular case here's what I had :
 ![more-in-store](https://user-images.githubusercontent.com/16509773/122679673-ce95a280-d1b9-11eb-9f61-b5c334bbe66c.jpg)
 
-# Would it be the time to take a walk ?
+### Would it be the time to take a walk ?
 I think yes! Let's head to binwalk to find if it can help uncover anything hidden.
 
 
